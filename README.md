@@ -12,6 +12,7 @@ This project is a **local Retrieval-Augmented Generation (RAG) chatbot** for VLS
 ## 📚 Documentation Index
 
 - [🧠 RAG Architecture & Flow](ARCHITECTURE.md)
+- [ RAG Retrieval-Augmented Generation](Retrieval_Augmented_Generation.md)
 - [📄 Document Ingestion & Embedding](INGESTION.md)
 - [⚙️ Local Setup Guide](SETUP_GUIDE.md)
 - [🗂 Folder Structure Explained](FOLDER_STRUCTURE.md)
