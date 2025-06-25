@@ -59,6 +59,9 @@ This tool is ideal for:
 > _Built with ❤️, zero cost, and full curiosity._
 
 ---
+## 🖼️ Demo Screenshot
+
+![Chatbot UI](chatbot_ui.png)
 
 ## 🔗 License
 
