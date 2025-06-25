@@ -1,0 +1,45 @@
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === Virtual environment ===
+.venv/
+env/
+ENV/
+
+# === VS Code settings ===
+.vscode/
+
+# === Chroma DB persistence ===
+chromadb/
+
+# === Model files and weights ===
+models/
+*.gguf
+*.bin
+
+# === Logs and chat history ===
+chat_history/
+*.log
+
+# === Secrets ===
+.env
+.env.*
+
+# === Data files ===
+data/
+!data/.gitkeep   # keep the folder structure
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Large local or temp files ===
+*.bak
+*.tmp
+*.swp
+
+# Secrets
+.env
+!.env.example
