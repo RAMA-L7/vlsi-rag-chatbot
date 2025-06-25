@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # 🧠 VLSI RAG Chatbot — Offline GPT Assistant for Chip Design Docs
 
 This project is a **local Retrieval-Augmented Generation (RAG) chatbot** for VLSI Physical Design engineers. It uses **open-source LLMs** and **your own documents** (PDFs, PPTs, DOCXs) to answer questions without needing the internet or OpenAI APIs.
